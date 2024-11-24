@@ -4,7 +4,7 @@ A game prototype by Tim Samoff.
 
 ## Description
 
-A simple game idea where the player must doge and collect.
+A simple game idea where the player must dodge and collect.
 
 ## How To Play
 
